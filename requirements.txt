@@ -1,0 +1,9 @@
+jedi
+ipython
+pyflakes
+pylint
+autopep8
+numpy
+tensorflow
+matplotlib
+pillow
